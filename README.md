@@ -1,5 +1,5 @@
 # Neural_Style_Transfer_Learning
-to learn painting from masterpiece
+to learn painting from masterpiece.
 
 This is an implementation of the "[A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)". This uses the selected filtered responses of a pre-trained model (VGG-19) to capture low level to high level features and transfer them to the content image.
 
@@ -23,5 +23,5 @@ Then you can either run Neural_Style_Transfer.py or run IPython Notebook Neural_
 
 References:
 - [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
-- [AI open course homework](./Art_Generation_with_Neural_Style_Transfer_v3a_solution.ipynb)
+- [My AI open course homework](./Art_Generation_with_Neural_Style_Transfer_v3a_solution.ipynb)
 
