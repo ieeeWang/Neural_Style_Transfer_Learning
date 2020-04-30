@@ -23,5 +23,5 @@ Then you can either run Neural_Style_Transfer.py or run IPython Notebook Neural_
 
 References:
 - [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
-- [https://github.com/jcjohnson/neural-style](https://github.com/jcjohnson/neural-style)
-Art_Generation_with_Neural_Style_Transfer_v3a_solution.ipynb
+- [AI open course homework](./Art_Generation_with_Neural_Style_Transfer_v3a_solution.ipynb)
+
