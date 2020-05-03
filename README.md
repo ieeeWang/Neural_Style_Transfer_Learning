@@ -7,7 +7,7 @@ You can have a quick look what this code can do from my IPython Notebook availab
 
 Demos:
 
-<img src="good/demo3.png" width="400px" height="600px" />
+<img src="good/demo3.png" width="400px" height="500px" />
 
 # How to run
 
