@@ -3,7 +3,7 @@ AI learns painting from a masterpiece.
 
 This is an implementation of the "[A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)". This uses the selected filtered responses of a pre-trained model (VGG-19) to capture low level to high level features and transfer them to the content image.
 
-You can have a quick look what this code can do from my IPython Notebook available [here](./Neural_style_transfer_art_images_Lei.ipynb)
+You can have a quick look what this code can do from my IPython Notebook available [here](./Neural_style_transfer_art_images_Lei.ipynb).
 
 Demos:
 
